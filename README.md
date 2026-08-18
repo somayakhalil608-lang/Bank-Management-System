@@ -4,73 +4,73 @@
 
 Main Menu
 
-![Main Menu](Main%20Menu.png)
+![Main Menu](images/Main%20Menu.png)
 
 ### 2. Show Clients
 
 Show Clients
 
-![Show Clients](Show%20Clients.png)
+![Show Clients](images/Show%20Clients.png)
 
 ### 3. Add Client
 
 Add Client
 
-![Add Client](Add%20Clients.png)
+![Add Client](images/Add%20Clients.png)
 
 ### 4. Delete Client
 
 Delete Client
 
-![Delete Client](Delete%20Client1.png)
+![Delete Client](images/Delete%20Client1.png)
 
 ### 5. Screen After Delete
 
 Screen After Delete
 
-![Screen After Delete](Screen%20After%20Delete.png)
+![Screen After Delete](images/Screen%20After%20Delete.png)
 
 ### 6. Update Client
 
 Update Client
 
-![Update Client](Update%20Client.png)
+![Update Client](images/Update%20Client.png)
 
 ### 7. Screen After Update
 
 Screen After Update
 
-![Screen After Update](Screen%20After%20Update.png)
+![Screen After Update](images/Screen%20After%20Update.png)
 
 ### 8. Find Screen
 
 Find Screen
 
-![Find Screen](Find%20Screen.png)
+![Find Screen](images/Find%20Screen.png)
 
 ### 9. Transaction Menu
 
 Transaction Menu
 
-![Transaction Menu](Transaction%20Menue%20Screen.png)
+![Transaction Menu](images/Transaction%20Menue%20Screen.png)
 
 ### 10. Deposite Screen
 
 Deposite Screen
 
-![Deposite Screen](Deposite%20Screen.png)
+![Deposite Screen](images/Deposite%20Screen.png)
 
 ### 11. Withdraw Screen
 
 Withdraw Screen
 
-![Withdraw Screen](Withdraw%20Screen.png)
+![Withdraw Screen](images/Withdraw%20Screen.png)
 
 ### 12. Blances Screen
 
 Blances Screen
 
-![Blances Screen](Blances%20Screen.png)
+![Blances Screen](images/Blances%20Screen.png)
 
 ### 13. Source Code
 
